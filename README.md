@@ -3,7 +3,7 @@
 <h3 align="center">Data Engineer & Data Scientist with 5 Years Experience.</h3>
 
 
- <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding" style="width: 400; float: right;">
+ <img src="https://drive.google.com/file/d/1GtI5mEBhrqNaw1IC1uXyQww7kM_X0xzU/view?usp=sharing" alt="Coding" style="width: 200; float: right;">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaidbilal5&label=Profile%20views&color=0e75b6&style=flat" alt="junaidbilal5" /> </p>
