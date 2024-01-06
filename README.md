@@ -1,3 +1,4 @@
+![logo](https://github.com/junaidbilal5/junaidbilal5/blob/main/Junaid%20Billal%20Github.jpg)
 <h1 align="center">Hi 👋, I'm Junaid Bilal</h1>
 <h3 align="center">Data Engineer & Data Scientist with 5 Years Experience.</h3>
 
