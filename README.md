@@ -18,9 +18,9 @@
     <!-- Social Links -->
     <h3>Connect with me:</h3>
     <p>
-      <!--  <a href="https://twitter.com/junaid_bilal005" target="_blank"> -->
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" width="30">
-        </a>
+      <!--  <a href="https://twitter.com/junaid_bilal005" target="_blank"> 
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" width="30"> 
+        </a> -->
         <a href="https://linkedin.com/in/junaid-bilal/" target="_blank">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="30">
         </a>
