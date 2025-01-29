@@ -77,7 +77,7 @@
     <p>
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=junaidbilal5&show_icons=true&locale=en" alt="junaidbilal5">
         <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=junaidbilal5&show_icons=true&locale=en&layout=compact" alt="junaidbilal5">
-        <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=junaidbilal5" alt="junaidbilal5">
+      <!--  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=junaidbilal5" alt="junaidbilal5"> -->
     </p>
 
 </body>
