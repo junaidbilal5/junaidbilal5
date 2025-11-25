@@ -7,7 +7,7 @@
 <body style="font-family: Arial, sans-serif; margin: 0; padding: 20px; background-color: #f9f9f9;">
     <!-- Logo and Introduction -->
     <div align="center">
-        <img src="https://github.com/junaidbilal5/junaidbilal5/blob/main/Junaid%20Billal%20Github.jpg" alt="logo" style="width: 150px; border-radius: 50%; margin-bottom: 20px;">
+        <!--<img src="https://github.com/junaidbilal5/junaidbilal5/blob/main/Junaid%20Billal%20Github.jpg" alt="logo" style="width: 150px; border-radius: 50%; margin-bottom: 20px;">-->
         <h1>Hi 👋, I'm Junaid Bilal</h1>
         <h4>Experienced Data Engineer specializing in transforming raw data into actionable insights to drive strategic decision-making.
             Proficient in Azure Cloud Services, Data Engineering, Data Analytics, and Visualization.</h4></div>
