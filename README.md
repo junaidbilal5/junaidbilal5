@@ -33,7 +33,7 @@ Throughout my career, I have collaborated with cross-functional teams, adhered t
     <div style="max-width: 800px; margin: auto; background: #fff; padding: 20px; border: 1px solid #ddd; border-radius: 8px;">
         <h1 style="font-size: 24px; color: #333;">Resume</h1>
         <p>Nationality: Pakistani</p>
-        <p>Phone: (+92) 3457448497</p>
+        <!--<p>Phone: (+92) 3457448497</p>-->
         <p>Email: <a href="mailto:junaidbilal005@gmail.com" style="color: #1a73e8; text-decoration: none;">junaidbilal005@gmail.com</a></p>
         <p>LinkedIn: <a href="https://linkedin.com/in/junaid-bilal/" target="_blank" style="color: #1a73e8; text-decoration: none;">linkedin.com/in/junaid-bilal</a></p>
         <p>GitHub: <a href="https://github.com/junaidbilal5" target="_blank" style="color: #1a73e8; text-decoration: none;">github.com/junaidbilal5</a></p>
@@ -70,7 +70,7 @@ Throughout my career, I have collaborated with cross-functional teams, adhered t
         <h2 style="font-size: 20px; color: #333;">Languages</h2>
         <ul>
             <li><strong>Urdu:</strong> Native</li>
-            <li><strong>English:</strong> Proficient (IELTS Level B2)</li>
+            <li><strong>English:</strong> Proficient</li>
             <li><strong>German:</strong> German: A2 in progress </li>
         </ul>
     </div>
