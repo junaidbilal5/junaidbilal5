@@ -9,8 +9,9 @@
     <div align="center">
         <img src="https://github.com/junaidbilal5/junaidbilal5/blob/main/Junaid%20Billal%20Github.jpg" alt="logo" style="width: 150px; border-radius: 50%; margin-bottom: 20px;">
         <h1>Hi 👋, I'm Junaid Bilal</h1>
-        <h3>3 Years in Data Engineering & 2 Years in Data Science Domain Experience</h3>
-    </div>
+        <h3>As a Senior Data Engineer, I specialize in building scalable, automated data pipelines for high-volume business applications. Currently, I work on projects involving complex data integrations for international clients in the finance and retail sectors. With a proven track record in delivering high-performance solutions using Microsoft Azure, I have developed data infrastructure that improves decision-making and drives operational efficiency.
+I bring hands-on experience with modern data stacks, including Azure Synapse, Data Factory, Databricks, Power BI, PySpark, and SQL. My work includes optimizing large-scale data ingestion, transformation, and visualization processes. Additionally, I have successfully led AWS-to-Azure migration initiatives and designed robust reporting automation workflows that improve real-time analytics capabilities.
+Throughout my career, I have collaborated with cross-functional teams, adhered to high delivery standards, and demonstrated a strong ability to learn and adapt. I take pride in ensuring timely and accurate delivery of data solutions, and I’m eager to take on new challenges in dynamic, forward-thinking organizations.</h3></div>
     <!-- Animated Image -->
     <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
     <!-- Contact Information -->
