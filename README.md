@@ -9,13 +9,13 @@
     <div align="center">
         <img src="https://github.com/junaidbilal5/junaidbilal5/blob/main/Junaid%20Billal%20Github.jpg" alt="logo" style="width: 150px; border-radius: 50%; margin-bottom: 20px;">
         <h1>Hi 👋, I'm Junaid Bilal</h1>
-        <h3>As a Senior Data Engineer, I specialize in building scalable, automated data pipelines for high-volume business applications. Currently, I work on projects involving complex data integrations for international clients in the finance and retail sectors. With a proven track record in delivering high-performance solutions using Microsoft Azure, I have developed data infrastructure that improves decision-making and drives operational efficiency.
-I bring hands-on experience with modern data stacks, including Azure Synapse, Data Factory, Databricks, Power BI, PySpark, and SQL. My work includes optimizing large-scale data ingestion, transformation, and visualization processes. Additionally, I have successfully led AWS-to-Azure migration initiatives and designed robust reporting automation workflows that improve real-time analytics capabilities.
-Throughout my career, I have collaborated with cross-functional teams, adhered to high delivery standards, and demonstrated a strong ability to learn and adapt. I take pride in ensuring timely and accurate delivery of data solutions, and I’m eager to take on new challenges in dynamic, forward-thinking organizations.</h3></div>
+        <h3>
+            Experienced Data Engineer specializing in transforming raw data into actionable insights to drive strategic decision-making.
+            Proficient in Azure Cloud Services, Data Engineering, Data Analytics, and Visualization.</h3></div>
     <!-- Animated Image -->
     <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
     <!-- Contact Information -->
-    <p>📫 How to reach me: <a href="mailto:junaidbilal005@gmail.com" style="color: #1a73e8; text-decoration: none;">junaidbilal005@gmail.com</a></p>
+   <!-- <p>📫 How to reach me: <a href="mailto:junaidbilal005@gmail.com" style="color: #1a73e8; text-decoration: none;">junaidbilal005@gmail.com</a></p>-->
     <!-- Social Links -->
     <h3>Connect with me:</h3>
     <p>
@@ -25,9 +25,9 @@ Throughout my career, I have collaborated with cross-functional teams, adhered t
         <a href="https://linkedin.com/in/junaid-bilal/" target="_blank">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="30">
         </a>
-        <a href="https://www.youtube.com/@BirdEyeViewWithBilal" target="_blank">
+        <!--<a href="https://www.youtube.com/@BirdEyeViewWithBilal" target="_blank">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" width="30">
-        </a>
+        </a>-->
     </p>
     <!-- Resume Section -->
     <div style="max-width: 800px; margin: auto; background: #fff; padding: 20px; border: 1px solid #ddd; border-radius: 8px;">
@@ -39,8 +39,9 @@ Throughout my career, I have collaborated with cross-functional teams, adhered t
         <p>GitHub: <a href="https://github.com/junaidbilal5" target="_blank" style="color: #1a73e8; text-decoration: none;">github.com/junaidbilal5</a></p>
         <h2 style="font-size: 20px; color: #333;">About Me</h2>
         <p>
-            Experienced Data Engineer specializing in transforming raw data into actionable insights to drive strategic decision-making.
-            Proficient in Azure Cloud Services, Data Engineering, Data Analytics, and Visualization.
+            As a Senior Data Engineer, I specialize in building scalable, automated data pipelines for high-volume business applications. Currently, I work on projects involving complex data integrations for international clients in the finance and retail sectors. With a proven track record in delivering high-performance solutions using Microsoft Azure, I have developed data infrastructure that improves decision-making and drives operational efficiency.
+I bring hands-on experience with modern data stacks, including Azure Synapse, Data Factory, Databricks, Power BI, PySpark, and SQL. My work includes optimizing large-scale data ingestion, transformation, and visualization processes. Additionally, I have successfully led AWS-to-Azure migration initiatives and designed robust reporting automation workflows that improve real-time analytics capabilities.
+Throughout my career, I have collaborated with cross-functional teams, adhered to high delivery standards, and demonstrated a strong ability to learn and adapt. I take pride in ensuring timely and accurate delivery of data solutions, and I’m eager to take on new challenges in dynamic, forward-thinking organizations.
         </p>
         <h2 style="font-size: 20px; color: #333;">Key Skills</h2>
         <ul>
