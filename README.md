@@ -32,7 +32,7 @@ Throughout my career, I have collaborated with cross-functional teams, adhered t
     <!-- Resume Section -->
     <div style="max-width: 800px; margin: auto; background: #fff; padding: 20px; border: 1px solid #ddd; border-radius: 8px;">
         <h1 style="font-size: 24px; color: #333;">Resume</h1>
-        <p>Nationality: Pakistani</p>
+      <!--  <p>Nationality: Pakistani</p>-->
         <!--<p>Phone: (+92) 3457448497</p>-->
         <p>Email: <a href="mailto:junaidbilal005@gmail.com" style="color: #1a73e8; text-decoration: none;">junaidbilal005@gmail.com</a></p>
         <p>LinkedIn: <a href="https://linkedin.com/in/junaid-bilal/" target="_blank" style="color: #1a73e8; text-decoration: none;">linkedin.com/in/junaid-bilal</a></p>
