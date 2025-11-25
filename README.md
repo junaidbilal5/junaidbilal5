@@ -9,9 +9,9 @@
     <div align="center">
         <img src="https://github.com/junaidbilal5/junaidbilal5/blob/main/Junaid%20Billal%20Github.jpg" alt="logo" style="width: 150px; border-radius: 50%; margin-bottom: 20px;">
         <h1>Hi 👋, I'm Junaid Bilal</h1>
-        <h3>
+        <h2>
             Experienced Data Engineer specializing in transforming raw data into actionable insights to drive strategic decision-making.
-            Proficient in Azure Cloud Services, Data Engineering, Data Analytics, and Visualization.</h3></div>
+            Proficient in Azure Cloud Services, Data Engineering, Data Analytics, and Visualization.</h2></div>
     <!-- Animated Image -->
     <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
     <!-- Contact Information -->
