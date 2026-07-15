@@ -42,15 +42,6 @@ I bring hands-on experience with modern data stacks, including Azure Synapse, Da
 Throughout my career, I have collaborated with cross-functional teams, adhered to high delivery standards, and demonstrated a strong ability to learn and adapt. I take pride in ensuring timely and accurate delivery of data solutions, and I’m eager to take on new challenges in dynamic, forward-thinking organizations.
         </p>
         <h3 style="font-size: 20px; color: #333;">Techical Skills</h3>
-        <!-->
-            <ul>
-        <li><strong>Programming:</strong> Python, SQL, PySpark, Pandas, NumPy, Matplotlib</li>
-        <li><strong>Tools:</strong> Azure Databricks, Azure Data Factory, Azure Synapse Analytics, Pentaho, Git, Postman, Apache Airflow, CI/CD Pipelines</li>
-        <li><strong>Cloud:</strong> Azure Synapse Analytics, Azure Data Factory, Azure Data Lake, Azure Blob Storage, Azure SQL Database, Azure Key Vault</li>
-        <li><strong>Visualization:</strong> Power BI, DAX, Data Quality & Validation, Data Profiling</li>
-        <li><strong>Big Data & ETL:</strong> Apache Spark, Hadoop, Delta Lake, Kafka, ETL Automation, Data Warehousing, Data Modeling, Big Data Analytics, Medallion Architecture, Snowflake</li>
-        <li><strong>DevOps & Containers:</strong> Docker, Kubernetes, Terraform, Cloud Security & Governance, DataOps</li>
-        </ul> -->
 <ul>
     <li><strong>Programming:</strong> Python, SQL, PySpark, Databricks SQL, Pandas, NumPy, Matplotlib</li>
     <li><strong>Data Engineering & ETL:</strong> Azure Data Factory, Azure Databricks, Azure Synapse Analytics, Microsoft Fabric, Apache Spark, Apache Airflow, Pentaho, dbt, ETL Automation, Data Warehousing, Data Modeling, Medallion Architecture, Delta Lake, Data Quality & Validation, Data Profiling</li>
