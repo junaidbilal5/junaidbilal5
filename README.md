@@ -51,6 +51,8 @@ Throughout my career, I have collaborated with cross-functional teams, adhered t
         <li><strong>DevOps & Containers:</strong> Docker, Kubernetes, Terraform, Cloud Security & Governance, DataOps</li>
         </ul>
         <h3 style="font-size: 20px; color: #333;">Projects</h3>
+<p><strong>Open Source GenAI Engineering Portfolio – AI Data Engineer (Berlin, Germany)</strong><br>
+Designed and developed end-to-end RAG applications and AI agents using Python, LangChain, LangGraph, OpenAI/Gemini APIs, and vector databases. Built Databricks Agentic AI workflows with Delta Lake, MLflow, semantic search, and Dockerized deployments, significantly reducing environment setup time while enabling scalable GenAI solutions.</p>
         <p><strong>Cedar Financial – US Financial Services Project (Senior Data Engineer)</strong><br>
         Automated ETL pipelines using Azure Data Factory, Python, and SQL; improved reporting, data validation, and portfolio automation.</p>
         <p><strong>Algo – Walmart USA Data Modernisation (Data Engineer)</strong><br>
