@@ -35,6 +35,7 @@
         <p>Email: <a href="mailto:junaidbilal005@gmail.com" style="color: #1a73e8; text-decoration: none;">junaidbilal005@gmail.com</a></p>
         <p>LinkedIn: <a href="https://linkedin.com/in/junaid-bilal/" target="_blank" style="color: #1a73e8; text-decoration: none;">linkedin.com/in/junaid-bilal</a></p>
         <p>GitHub: <a href="https://github.com/junaidbilal5" target="_blank" style="color: #1a73e8; text-decoration: none;">github.com/junaidbilal5</a></p>
+        <p>Website: <a href="https://junaid-bilal-data-engine-52ff15t.gamma.site/" target="_blank" style="color: #1a73e8; text-decoration: none;">https://junaid-bilal-data-engine-52ff15t.gamma.site/</a></p>
         <h3 style="font-size: 20px; color: #333;">About Me</h3>
         <p>
             As a Senior Data Engineer, I specialize in building scalable, automated data pipelines for high-volume business applications. Currently, I work on projects involving complex data integrations for international clients in the finance and retail sectors. With a proven track record in delivering high-performance solutions using Microsoft Azure, I have developed data infrastructure that improves decision-making and drives operational efficiency.
